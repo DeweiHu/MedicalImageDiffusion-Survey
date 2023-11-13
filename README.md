@@ -4,7 +4,7 @@
 ### Synthesis
 | | Paper Title | Category | Code | Modality | Dimension |
 | :--: | :--------- | :-----: | :-----: | :-----: | :-----: |
-| 1 |ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models [pdf](https://arxiv.org/pdf/2309.01111.pdf) | Semantic |  | Colonoscopy | 2D |
+| 1 |ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models [pdf](https://arxiv.org/pdf/2309.01111.pdf) | Semantic | [link](https://github.com/DuYooho/ArSDM) | Colonoscopy | 2D |
 | 2 |NASDM: Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models [pdf](https://arxiv.org/pdf/2303.11477.pdf) | Semantic |  | Histopathology | 2D |
 | 3 |Diffusion-based Data Augmentation for Nuclei Image Segmentation [pdf](https://arxiv.org/pdf/2310.14197.pdf) | Semantic |  | Histopathology | 2D |
 | 4 |Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling [pdf](https://arxiv.org/pdf/2306.17717.pdf) | Denoising |  | OCT | 3D |
