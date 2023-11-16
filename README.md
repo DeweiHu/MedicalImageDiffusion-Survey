@@ -37,3 +37,13 @@ We classify the image synthesis works into several categories: semantic, modalit
 | 6 | Instance-Aware Diffusion Model for Gland Segmentation in Colon Histology Images [link](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_64) |  | Histology | image |
 | 7 | Learning Reliability of Multi-Modality Medical Images for Tumor Segmentation via Evidence-Identified Denoising Diffusion Probabilistic Models [link](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_65) |  | MRI | image |
 | 8 | Medical Boundary Diffusion Model for Skin Lesion Segmentation [link](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_41) | [link](https://github.com/jcwang123/MBDiff) | Dermoscopy | image |
+
+
+### Reconstruction
+| | Paper Title | Code | Modality | DM |
+| :--: | :------------- | :-----: | :-----: | :-----: |
+| 1 | Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction [pdf](https://arxiv.org/pdf/2308.10157.pdf) | [link](https://github.com/Show-han/PET-Reconstruction) | PET | image |
+| 2 | DMCVR: Morphology-Guided Diffusion Model for 3D Cardiac Volume Reconstruction [pdf](https://arxiv.org/pdf/2308.09223.pdf) | [link](https://github.com/hexiaoxiao-cs/DMCVR) | MRI | image |
+| 3 | DiffuseIR: Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images [pdf](https://arxiv.org/pdf/2306.12109.pdf) |  | Microscopy | image |
+| 4 | Self-Supervised MRI Reconstruction with Unrolled Diffusion Models [pdf](https://arxiv.org/pdf/2306.16654.pdf) | [link](https://github.com/yilmazkorkmaz1/SSDiffRecon) | MRI | image |
+| 5 | SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models [pdf](https://arxiv.org/pdf/2310.01799.pdf) | [link](https://github.com/NVlabs/SMRD) | MRI | image |
