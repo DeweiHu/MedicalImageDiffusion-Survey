@@ -17,13 +17,14 @@ We classify the image synthesis works into several categories: semantic, modalit
 | 8 |StainDiff: Transfer Stain Styles of Histology Images with Denoising Diffusion Probabilistic Models and Self-Ensemble [link](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_53) | Modality/Style Transfer |  | Histology | image |
 | 9 |Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis [pdf](https://arxiv.org/pdf/2307.10094.pdf) | 2D to 3D |  | MRI | latent |
 | 10 |Generating Realistic Brain MRIs via a Conditional Diffusion Probabilistic Model [link](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_2) | 2D to 3D | [link](https://github.com/xiaoiker/mask3DMRI_diffusion) | MRI | image |
-| 11 |PET-diffusion: Unsupervised PET Enhancement based on the Latent Diffusion Model [link](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_1) | Denoising/Enhancement |  | PET | latent |
-| 12 |Pre-trained Diffusion Models for Plug-and-Play Medical Image Enhancement [link](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_1) | Denoising/Enhancement |  | CT\MRI | image |
-| 13 |Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling [pdf](https://arxiv.org/pdf/2306.17717.pdf) | Denoising/Enhancement |  | OCT | image |
-| 14 |PET Image Denoising with Score-Based Diffusion Probabilistic Models [link](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_26) | Denoising/Enhancement |  | PET | image |
-| 15 |DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution [pdf](https://arxiv.org/pdf/2303.13933.pdf) | Super-resolution | [link](https://github.com/Yebulabula/DisC-Diff) | MRI | image |
-| 16 |InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model [pdf](https://arxiv.org/pdf/2308.12465.pdf) | Super-resolution | [link](https://github.com/BioMedAI-UCSC/InverseSR) | MRI | latent |
-| 17 |Topology-Preserving Computed Tomography Super-resolution Based on Dual-stream Diffusion Model [link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_25) | Super-resolution | [link](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR) | CT | image |
+| 11 |Generating High-Resolution 3D CT with 12-bit Depth using a Diffusion Model with Adjacent Slice and Intensity Calibration Network [link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_35) | 2D to 3D |  | CT | image |
+| 12 |PET-diffusion: Unsupervised PET Enhancement based on the Latent Diffusion Model [link](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_1) | Denoising/Enhancement |  | PET | latent |
+| 13 |Pre-trained Diffusion Models for Plug-and-Play Medical Image Enhancement [link](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_1) | Denoising/Enhancement |  | CT\MRI | image |
+| 14 |Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling [pdf](https://arxiv.org/pdf/2306.17717.pdf) | Denoising/Enhancement |  | OCT | image |
+| 15 |PET Image Denoising with Score-Based Diffusion Probabilistic Models [link](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_26) | Denoising/Enhancement |  | PET | image |
+| 16 |DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution [pdf](https://arxiv.org/pdf/2303.13933.pdf) | Super-resolution | [link](https://github.com/Yebulabula/DisC-Diff) | MRI | image |
+| 17 |InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model [pdf](https://arxiv.org/pdf/2308.12465.pdf) | Super-resolution | [link](https://github.com/BioMedAI-UCSC/InverseSR) | MRI | latent |
+| 18 |Topology-Preserving Computed Tomography Super-resolution Based on Dual-stream Diffusion Model [link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_25) | Super-resolution | [link](https://github.com/Arturia-Pendragon-Iris/UHRCT_SR) | CT | image |
 
 ### Segmentation
 
