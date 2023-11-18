@@ -50,8 +50,15 @@ We classify the image synthesis works into several categories: semantic, modalit
 
 
 ### Out-of-distribution Detection
-| | Paper Title | Category | Code | Modality | DM |
-| :--: | :--------- | :-----: | :-----: | :-----: | :-----: |
+| | Paper Title | Code | Modality | DM |
+| :--: | :--------- | :-----: | :-----: | :-----: |
 | 1 | Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos [pdf](https://arxiv.org/pdf/2311.00469.pdf) |  | Ultrasound | latent |
 | 2 | Fast Non-Markovian Diffusion Model for Weakly Supervised Anomaly Detection in Brain MR Images [link](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_56) |  | MRI | image |
 | 3 | Unsupervised 3D out-of-distribution detection with latent diffusion models [pdf](https://arxiv.org/pdf/2307.03777.pdf) | [link](https://github.com/marksgraham/ddpm-ood) | CT | latent |
+
+
+### Classification
+| | Paper Title | Code | Modality | DM |
+| :--: | :--------- | :-----: | :-----: | :-----: |
+| 1 | DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification [pdf](https://arxiv.org/pdf/2303.10610.pdf) | [link](https://github.com/scott-yjyang/DiffMIC) | --- | latent |
+| 2 | Unsupervised classification of congenital inner ear malformations using DeepDiffusion for latent space representation [pdf](https://backend.orbit.dtu.dk/ws/portalfiles/portal/332404520/paper2309.pdf) | [link](https://github.com/paulalopez10/Deep-Diffusion-Unsupervised-Classification-3D-Mesh) | CT | latent |
