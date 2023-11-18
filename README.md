@@ -62,3 +62,10 @@ We classify the image synthesis works into several categories: semantic, modalit
 | :--: | :--------- | :-----: | :-----: | :-----: |
 | 1 | DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification [pdf](https://arxiv.org/pdf/2303.10610.pdf) | [link](https://github.com/scott-yjyang/DiffMIC) | --- | latent |
 | 2 | Unsupervised classification of congenital inner ear malformations using DeepDiffusion for latent space representation [pdf](https://backend.orbit.dtu.dk/ws/portalfiles/portal/332404520/paper2309.pdf) | [link](https://github.com/paulalopez10/Deep-Diffusion-Unsupervised-Classification-3D-Mesh) | CT | latent |
+
+
+### Others
+| | Paper Title | Category | Code | Modality | DM |
+| :--: | :--------- | :-----: | :-----: | :-----: | :-----: |
+| 1 | FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images [pdf](https://arxiv.org/pdf/2307.12035.pdf) | Registration | [link](https://github.com/xmed-lab/FSDiffReg) | MRI | image |
+| 2 | DiffDP: Radiotherapy Dose Prediction via a Diffusion Model [pdf](https://arxiv.org/pdf/2307.09794.pdf) | Regression | [link](https://github.com/xmed-lab/FSDiffReg) | CT | image |
