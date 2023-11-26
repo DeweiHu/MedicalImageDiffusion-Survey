@@ -22,7 +22,7 @@ We classify the image synthesis works into several categories: semantic, modalit
 | 13 |Point Cloud Diffusion Models for Automatic Implant Generation [link](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_11) | 3D generation | [link](https://pfriedri.github.io/pcdiff-implant-io/) | CT | image |
 | 14 |Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis [pdf](hhttps://arxiv.org/pdf/2303.12644.pdf) | 3D generation | [link](https://github.com/HReynaud/EchoDiffusion) | Ultrasound | image |
 | 15 |PET-diffusion: Unsupervised PET Enhancement based on the Latent Diffusion Model [link](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_1) | Denoising/Enhancement |  | PET | latent |
-| 16 |Pre-trained Diffusion Models for Plug-and-Play Medical Image Enhancement [link](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_1) | Denoising/Enhancement |  | CT\MRI | image |
+| 16 |Pre-trained Diffusion Models for Plug-and-Play Medical Image Enhancement [link](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_1) | Denoising/Enhancement | [link](https://github.com/bowang-lab/DPM-MedImgEnhance) | CT\MRI | image |
 | 17 |Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling [pdf](https://arxiv.org/pdf/2306.17717.pdf) | Denoising/Enhancement |  | OCT | image |
 | 18 |PET Image Denoising with Score-Based Diffusion Probabilistic Models [link](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_26) | Denoising/Enhancement |  | PET | image |
 | 19 |DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution [pdf](https://arxiv.org/pdf/2303.13933.pdf) | Super-resolution | [link](https://github.com/Yebulabula/DisC-Diff) | MRI | image |
